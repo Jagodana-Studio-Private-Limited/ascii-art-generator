@@ -1,7 +1,7 @@
 {
-  "name": "{{TOOL_NAME}}",
-  "short_name": "{{TOOL_SHORT_NAME}}",
-  "description": "{{TOOL_DESCRIPTION}}",
+  "name": "ASCII Art Generator",
+  "short_name": "ASCII Art",
+  "description": "Convert any text to ASCII art instantly. 10+ fonts, one-click copy. Free, no login.",
   "icons": [
     {
       "src": "/favicon.svg",
@@ -22,7 +22,7 @@
       "purpose": "any maskable"
     }
   ],
-  "theme_color": "{{BRAND_COLOR}}",
+  "theme_color": "#a855f7",
   "background_color": "#ffffff",
   "display": "standalone",
   "orientation": "portrait-primary",
